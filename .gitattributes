@@ -28,4 +28,4 @@
 *.xlsm binary
 *.obj binary
 *.bin binary
-*.asdf binary
+*.a binary
