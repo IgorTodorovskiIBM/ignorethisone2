@@ -1,0 +1,16 @@
+<em>
+  address isredit
+  'macro'
+  'find </em> 1'
+  '(line) = cursor'
+  '(last) = linenum .zlast'
+  do i = line+1 to last
+    '(data) = line' i
+    data = strip(data)
+    data = '['data']('data')'
+    'line' i '= (data)'
+  end
+</em>
+[ALTLIBST](ALTLIBST)
+[B2H](B2H)
+[CBTView](CBTView)

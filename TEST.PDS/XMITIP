@@ -1,0 +1,17 @@
+/*---------------------  rexx procedure  -------------------- *
+ | Name:      name                                            |
+ |                                                            |
+ | Function:  ISPF Edit Macro to . . .                        |
+ |                                                            |
+ | Usage Notes:                                               |
+ |                                                            |
+ | Dependencies:                                              |
+ |                                                            |
+ | Author:    Lionel B. Dyck                                  |
+ |                                                            |
+ | History:  (most recent on top)                             |
+ |            yyyy/mm/dd LBD - Creation                       |
+ |                                                            |
+ * ---------------------------------------------------------- */
+ Address ISREdit
+ 'Macro (options)'
